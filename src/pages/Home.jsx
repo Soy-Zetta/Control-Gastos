@@ -1,7 +1,9 @@
 import styled from "styled-components";
-export function login() {
+export function Home() {
   return (<Container>
-<h1>Login</h1>
+<h1>Componente</h1>
   </Container>);
 }
-const Container =styled.div``;
+const Container =styled.div`
+  
+`
