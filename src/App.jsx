@@ -1,4 +1,4 @@
-import "./App.css";
+
 import { MyRoutes } from "./index";
 
 function App() {

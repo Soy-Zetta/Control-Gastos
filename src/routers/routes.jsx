@@ -4,8 +4,8 @@ export function MyRoutes() {
   return (
     <BrowserRouter>
       <Routes>
-      <Route path="/" element={<Home/>} />
-        <Route path="/login" element={<Login/>} />
+      <Route path="/sddsd" element={<Home/>} />
+        <Route path="/" element={<Login/>} />
       </Routes>
     </BrowserRouter>
   )
