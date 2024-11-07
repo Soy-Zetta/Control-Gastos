@@ -3,5 +3,5 @@ export * from './components/templates/HomeTamplate';
 export * from './components/templates/LoginTemplate';
 export * from './main';
 export * from './pages/Home';
-export * from './pages/login';
+export * from './pages/Login';
 export * from './routers/routes';
