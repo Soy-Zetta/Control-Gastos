@@ -11,7 +11,7 @@ export function LoginTemplate() {
         </div>
       
       <Titulo>Mantenimientos</Titulo>
-      <p>Control de Mantenimientos</p>
+      <p>Control de Gastos</p>
       <ContainerBtn>
         <Btnsave></Btnsave>
 
