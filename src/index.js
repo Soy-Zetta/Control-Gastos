@@ -6,3 +6,5 @@ export * from './main';
 export * from './pages/Home';
 export * from './pages/Login';
 export * from './routers/routes';
+export * from './styles/themes';
+export * from './styles/variables';
