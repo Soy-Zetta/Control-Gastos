@@ -13,7 +13,7 @@ export function LoginTemplate() {
       <Titulo>Mantenimientos</Titulo>
       <p>Control de Gastos</p>
       <ContainerBtn>
-        <Btnsave></Btnsave>
+        <Btnsave titulo={"Iniciar con Google"}></Btnsave>
 
       </ContainerBtn>
 
