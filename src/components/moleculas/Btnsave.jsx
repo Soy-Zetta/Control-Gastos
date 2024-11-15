@@ -16,6 +16,8 @@ const Container = styled.button`
   align-items: center;
   text-decoration: none;
   border: none;
+  gap: 10px;
+  background-color: initial;
   .btn {
     background: ${(props) => props.bgcolor};
     padding: 0.6em 1.3em;
@@ -34,6 +36,7 @@ const Container = styled.button`
     }
     &:active {
       transform: translate(0.05em, 0.05em);
+      box-shadow: 0.05em 0.05em #000;
     }
   }
 `;
