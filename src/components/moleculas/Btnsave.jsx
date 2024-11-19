@@ -37,6 +37,7 @@ const Container = styled.button`
     &:active {
       transform: translate(0.05em, 0.05em);
       box-shadow: 0.05em 0.05em #000;
+      
     }
   }
 `;
