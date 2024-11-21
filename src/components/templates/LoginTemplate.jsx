@@ -11,7 +11,7 @@ export function LoginTemplate() {
         <Titulo>Cerdyn</Titulo>
         <p className="frase">Toma el control de tus 💵gastos e 💰ingresos</p>
         <ContainerBtn>
-          <Btnsave titulo="Iniciar con google" icono={<v.iconogoogle />}/>
+          <Btnsave titulo="Iniciar con google" icono={<v.iconogoogle />} bgcolor={v.colorSecundario}/>
         </ContainerBtn>
       </div>
     </Container>
